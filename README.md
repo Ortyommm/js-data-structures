@@ -1,5 +1,5 @@
 # Importing packages
-`import { Tuple } from "js-ds"`
+`import {Tuple} from "js-datastruct";`
 # Tuple
 `const tuple = new Tuple(1, 2, 3)`
 
