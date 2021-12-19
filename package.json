@@ -6,5 +6,8 @@
   "license": "MIT",
   "type": "module",
   "private": false,
-  "author": "Ortyommm"
+  "author": "Ortyommm",
+  "repository": {
+    "url": "https://github.com/Ortyommm/js-data-structures"
+  }
 }
