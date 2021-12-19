@@ -1,3 +1,3 @@
-import Tuple from "./structures/Tuple/Tuple";
+import Tuple from "./structures/Tuple/Tuple.js";
 
 export { Tuple };
